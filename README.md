@@ -12,7 +12,7 @@ https://fontawesome.com/v4.7.0/assets/font-awesome-4.7.0.zip
 miután letöltötted, csomagold ki a css-mappádba, és hivatkozz a benne található css/font-awesome.min.css fáljra az index.html-ben.
 
 ## Header   
-- Hozz létre az oldalon egy header elemet.
+<!-- - Hozz létre az oldalon egy header elemet.
 - A CSS-osztálya "header--dark" legyen.
 - Háttérszín: 51,57,64
 - Kitöltőszín: 236,236,236
@@ -27,16 +27,16 @@ miután letöltötted, csomagold ki a css-mappádba, és hivatkozz a benne talá
 - Ez egy div legyen "header__search" osztállyal.
 - Inline legyen megjelenítve.
 ---
-- Legyen a header__search osztályú divben egy input elem és egy gomb.
-- Az input elem osztálya "search__input" legyen.
-- Legyen a bal felső és alsó sarka 4 pixelre lekerekítve.
-- A jobb-bal padding 0.75, a felső-alsó 0.375 legyen a roothoz viszonyítva.
-- A betűmérete 1.2 legyen a roothoz viszonyítva.
-- A szegély színére állíts be egy áttűnést, amely .15 másodpercig tart.
-- Ha megkapja a fókuszt, akkor a szegély színe 128,189,255 legyen.
-- A gomb elem osztálya "search__btn" legyen.
-- A gomb háttérszíne 0,123,255 legyen.
-- A nagyító ikont keresd meg a Font Awesome-ikonok között, és jelenítsd meg a gomb közepén a minta alapján.
+- Legyen a header__search osztályú divben egy input elem és egy gomb. -->
+<!-- - Az input elem osztálya "search__input" legyen. -->
+<!-- - Legyen a bal felső és alsó sarka 4 pixelre lekerekítve. -->
+<!-- - A jobb-bal padding 0.75, a felső-alsó 0.375 legyen a roothoz viszonyítva.
+- A betűmérete 1.2 legyen a roothoz viszonyítva. -->
+<!-- - A szegély színére állíts be egy áttűnést, amely .15 másodpercig tart.
+- Ha megkapja a fókuszt, akkor a szegély színe 128,189,255 legyen. -->
+<!-- - A gomb elem osztálya "search__btn" legyen.
+- A gomb háttérszíne 0,123,255 legyen. -->
+<!-- - A nagyító ikont keresd meg a Font Awesome-ikonok között, és jelenítsd meg a gomb közepén a minta alapján. -->
 
 ## Main
 - Hozz létre egy main elemet a header alá. 
